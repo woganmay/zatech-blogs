@@ -34,6 +34,7 @@ Download the main OPML file here: https://raw.githubusercontent.com/woganmay/zat
 * Jurgens du Toit - http://jrgns.net/
 * nathanjeffery.co - https://nathanjeffery.co/
 * justjuzzy - http://www.justjuzzy.com/
+* leonjza - https://leonjza.github.io/
 
 # Contribute!
 
