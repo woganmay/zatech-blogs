@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>ZA Tech Blogs</title>
+    </head>
+    <body>
+        <outline text="ZA Blogs" title="ZA Blogs">
+            <outline type="rss" text="SneakyCode" title="SneakyCode" xmlUrl="http://sneakycode.net/rss/" htmlUrl="http://sneakycode.net/"/>
+            <outline type="rss" text="Ben Janecke" title="Ben Janecke" xmlUrl="http://www.benjanecke.com/feed.xml" htmlUrl="http://benjanecke.com/"/>
+            <outline type="rss" text="Corporate Programmer" title="Corporate Programmer" xmlUrl="http://www.corporateprogrammer.com/feed.xml" htmlUrl="http://www.corporateprogrammer.com/"/>
+            <outline type="rss" text="knowles.co.za" title="knowles.co.za" xmlUrl="http://knowles.co.za/feed/" htmlUrl="http://knowles.co.za"/>
+            <outline type="rss" text="exigentcoder" title="exigentcoder" xmlUrl="http://blog.exigentcoder.com/feed/" htmlUrl="http://blog.exigentcoder.com"/>
+            <outline type="rss" text="site2.logz.io/author" title="site2.logz.io/author" xmlUrl="http://site2.logz.io/author/jurgensdutoit/feed/" htmlUrl="https://logz.io"/>
+            <outline type="rss" text="opensourcery.co.za/xml" title="opensourcery.co.za/xml" xmlUrl="https://opensourcery.co.za/feed.xml" htmlUrl="http://www.opensourcery.co.za/"/>
+            <outline type="rss" text="joshilewis" title="joshilewis" xmlUrl="http://feeds.feedburner.com/joshilewis" htmlUrl="https://joshilewis.wordpress.com"/>
+            <outline type="rss" text="Blog - Red Comet Labs" title="Blog - Red Comet Labs" xmlUrl="http://www.redcometlabs.com/blog?format=RSS" htmlUrl="http://www.redcometlabs.com/blog/"/>
+            <outline type="rss" text="kmckelvin.atom" title="kmckelvin.atom" xmlUrl="http://kmckelvin.com/blog.atom" htmlUrl="http://kmckelvin.com"/>
+            <outline type="rss" text="vxlabs" title="vxlabs" xmlUrl="http://vxlabs.com/feed/" htmlUrl="https://vxlabs.com"/>
+            <outline type="rss" text="eagerelk" title="eagerelk" xmlUrl="http://blog.eagerelk.com/feed/" htmlUrl="http://blog.eagerelk.com"/>
+            <outline type="rss" text="wogan.blog" title="wogan.blog" xmlUrl="https://wogan.blog/feed/" htmlUrl="https://wogan.blog"/>
+            <outline type="rss" text="sadev.co.za" title="sadev.co.za" xmlUrl="http://www.sadev.co.za/rss.xml" htmlUrl="http://www.sadev.co.za"/>
+            <outline type="rss" text="ctor.co.za" title="ctor.co.za" xmlUrl="http://ctor.co.za/feed/" htmlUrl="http://ctor.co.za"/>
+            <outline type="rss" text="Zero One Blog" title="Zero One Blog" xmlUrl="http://zero-one.io/feed.xml" htmlUrl="http://www.zero-one.io/blog"/>
+            <outline type="rss" text="continuousdeveloper" title="continuousdeveloper" xmlUrl="http://www.continuousdeveloper.com/rss/" htmlUrl="https://continuousdeveloper.com/"/>
+            <outline type="rss" text="frank.soy/xml" title="frank.soy/xml" xmlUrl="http://frank.soy/feed.xml" htmlUrl="http://frank.soy/"/>
+            <outline type="rss" text="Martin Cronjé" title="Martin Cronjé" xmlUrl="http://www.martincronje.com/rss/" htmlUrl="http://www.martincronje.com/"/>
+            <outline type="rss" text="spaceshipscience.co.za/?feed=" title="spaceshipscience.co.za/?feed=" xmlUrl="http://spaceshipscience.co.za/?feed=rss2" htmlUrl="http://spaceshipscience.co.za"/>
+            <outline type="rss" text="emilesilvis" title="emilesilvis" xmlUrl="http://emilesilvis.com/feed/" htmlUrl="http://emilesilvis.com"/>
+            <outline type="rss" text="mike.stichling.me" title="mike.stichling.me" xmlUrl="http://mike.stichling.me/rss/" htmlUrl="http://mike.stichling.me/"/>
+            <outline type="rss" text="Gabriel Fortuna" title="Gabriel Fortuna" xmlUrl="http://blog.gabrielfortuna.net/rss/" htmlUrl="http://blog.gabrielfortuna.net/"/>
+            <outline type="rss" text="thanethomson/index.xml" title="thanethomson/index.xml" xmlUrl="https://thanethomson.com/index.xml" htmlUrl="https://thanethomson.com"/>
+            <outline type="rss" text="Kafècho" title="Kafècho" xmlUrl="http://kafecho.blogspot.com/feeds/posts/default" htmlUrl="http://kafecho.blogspot.com/"/>
+            <outline type="rss" text="selfdocumenting" title="selfdocumenting" xmlUrl="http://selfdocumenting.net/rss/" htmlUrl="http://selfdocumenting.net/"/>
+            <outline type="rss" text="Riggaroo" title="Riggaroo" xmlUrl="http://riggaroo.co.za/feed/" htmlUrl="https://riggaroo.co.za"/>
+            <outline type="rss" text="Jurgens du Toit" title="Jurgens du Toit" xmlUrl="http://jrgns.net/atom.xml" htmlUrl="http://jrgns.net/"/>
+            <outline type="rss" text="nathanjeffery.co" title="nathanjeffery.co" xmlUrl="https://nathanjeffery.co/rss/" htmlUrl="https://nathanjeffery.co/"/>
+            <outline type="rss" text="justjuzzy" title="justjuzzy" xmlUrl="https://www.justjuzzy.com/atom.xml" htmlUrl="http://www.justjuzzy.com/"/>
+        </outline>
+    </body>
+</opml>
