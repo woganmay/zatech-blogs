@@ -36,6 +36,7 @@
             <outline type="rss" text="Jurgens du Toit" title="Jurgens du Toit" xmlUrl="http://jrgns.net/atom.xml" htmlUrl="http://jrgns.net/"/>
             <outline type="rss" text="nathanjeffery.co" title="nathanjeffery.co" xmlUrl="https://nathanjeffery.co/rss/" htmlUrl="https://nathanjeffery.co/"/>
             <outline type="rss" text="justjuzzy" title="justjuzzy" xmlUrl="https://www.justjuzzy.com/atom.xml" htmlUrl="http://www.justjuzzy.com/"/>
+            <outline type="rss" text="leonjza" title="leonjza" xmlUrl="https://leonjza.github.io/index.xml" htmlUrl="https://leonjza.github.io/"/>
         </outline>
     </body>
 </opml>
