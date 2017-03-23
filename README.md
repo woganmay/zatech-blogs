@@ -9,8 +9,8 @@ Download the main OPML file here: https://raw.githubusercontent.com/woganmay/zat
 * Corporate Programmer - http://www.corporateprogrammer.com/
 * knowles.co.za - http://knowles.co.za
 * exigentcoder - http://blog.exigentcoder.com
-* site2.logz.io/author - https://logz.io
-* opensourcery.co.za/xml - http://www.opensourcery.co.za/
+* Jurgens du Toit - http://site2.logz.io/author/jurgensdutoit/
+* opensourcery.co.za - http://www.opensourcery.co.za/
 * joshilewis - https://joshilewis.wordpress.com
 * Blog - Red Comet Labs - http://www.redcometlabs.com/blog/
 * kmckelvin.atom - http://kmckelvin.com
@@ -21,13 +21,13 @@ Download the main OPML file here: https://raw.githubusercontent.com/woganmay/zat
 * ctor.co.za - http://ctor.co.za
 * Zero One Blog - http://www.zero-one.io/blog
 * continuousdeveloper - https://continuousdeveloper.com/
-* frank.soy/xml - http://frank.soy/
+* frank.soy - http://frank.soy/
 * Martin Cronjé - http://www.martincronje.com/
-* spaceshipscience.co.za/?feed= - http://spaceshipscience.co.za
+* spaceshipscience.co.za - http://spaceshipscience.co.za
 * emilesilvis - http://emilesilvis.com
 * mike.stichling.me - http://mike.stichling.me/
 * Gabriel Fortuna - http://blog.gabrielfortuna.net/
-* thanethomson/index.xml - https://thanethomson.com
+* thanethomson - https://thanethomson.com
 * Kafècho - http://kafecho.blogspot.com/
 * selfdocumenting - http://selfdocumenting.net/
 * Riggaroo - https://riggaroo.co.za
